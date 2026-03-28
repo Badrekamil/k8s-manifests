@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: devops-app
-        image: your-docker-username/app:latest
+        image: badrekhan/devops-project1:app
         ports:
         - containerPort: 3000
